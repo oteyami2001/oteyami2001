@@ -1,6 +1,6 @@
-<h1 align="center">Thierry A. Oteyami — Cloud Engineer</h1>
+<h1 align="center">Thierry A. Oteyami — Cloud Engineer & Software Developer</h1>
 
-<h3 align="center">Cloud Engineer | AWS | OCI | Terraform | Kubernetes | Oracle DBA</h3>
+<h3 align="center">Cloud Engineer | Software Developer | AWS | OCI | Terraform | Kubernetes | Oracle DBA</h3>
 
 <p align="center">
   <a href="https://cloudtechinter.com"><img src="https://img.shields.io/badge/Cloud_Tech_Inter-Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
@@ -15,14 +15,15 @@
 
 ## 👨‍💻 About Me
 
-Cloud Engineer and Oracle DBA who designs, automates and secures cloud infrastructure on **AWS** and **Oracle Cloud (OCI)**.
+Cloud Engineer, Software Developer and Oracle DBA who designs, builds, automates and secures cloud infrastructure and applications on **AWS** and **Oracle Cloud (OCI)**.
 
 - ☁️ Cloud architecture, migration, high availability and disaster recovery
 - 🗄️ Oracle Database administration: RAC, Data Guard, GoldenGate, RMAN
+- 💻 Software development in Python, Java, C#, C++ and SQL
 - ⚙️ Infrastructure as Code and containers: Terraform, Docker, Kubernetes
 - 🔐 Security and compliance: IAM, NIST SP 800-53, RMF, DISA STIG
 - 🏢 Founder & CEO of **[Cloud Tech Inter LLC](https://cloudtechinter.com)**
-- 🎓 M.S. Cloud Computing Systems, UMGC (expected Dec 2026)
+- 🎓 M.S. Cloud Computing Systems, UMGC
 
 ---
 
@@ -90,6 +91,7 @@ Cloud Engineer and Oracle DBA who designs, automates and secures cloud infrastru
 | 🐳 **Containerized Workloads** | Docker and Kubernetes deployments |
 | 🔐 **Infrastructure Security Hardening** | IAM, encryption, NIST 800-53 and DISA STIG controls |
 | ⚡ **High Performance Computing** | Scalable compute on AWS and OCI |
+| 🛒 **[Retail Inventory System (CMSC495)](https://github.com/tac0817/CMSC495)** | Java Swing app for a 5-store retailer: user login, admin inventory management, product search, cart and rentals |
 
 ---
 
@@ -105,7 +107,7 @@ Cloud Engineer and Oracle DBA who designs, automates and secures cloud infrastru
 
 ## 🎓 Education
 
-- **M.S. Cloud Computing Systems** — University of Maryland Global Campus (expected Dec 2026)
+- **M.S. Cloud Computing Systems** — University of Maryland Global Campus
 - **B.S. Software Development and Security** — University of Maryland Global Campus
 - **A.S. Computer Information Systems** — Kingsborough Community College
 
